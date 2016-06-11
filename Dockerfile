@@ -1,4 +1,4 @@
-FROM aphecetche/alice-date
+FROM aphecetche/alice-amore
 
 ENV DAQDALIB_PATH /opt/daqDA-lib
 
